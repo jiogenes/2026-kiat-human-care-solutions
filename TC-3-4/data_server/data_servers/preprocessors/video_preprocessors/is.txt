@@ -1,0 +1,2 @@
+Length of dataset: 50000
+IS: 87.75227355957031

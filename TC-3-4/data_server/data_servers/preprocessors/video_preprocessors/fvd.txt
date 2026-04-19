@@ -1,0 +1,3 @@
+Length of dataset: 5000
+/home/wayexists/projects/kiat/data_server/preprocessors/video_preprocessors/fvd/styleganv/i3d_torchscript.pt
+FVD: 13.074381635313209
